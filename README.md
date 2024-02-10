@@ -34,7 +34,7 @@ Code Trekker is a program designed to simulate the experience of popular competi
 
 Placing a strong emphasis on Object-Oriented Programming (OOP) principles and Data Structures concepts in Code Trekker's implementation.
 
-## Working on:
+## Working on
 
 ### Contests
 - **Competitive Challenges** 
